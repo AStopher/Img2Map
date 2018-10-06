@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Img2Map", "Img2Map.vcxproj", "{203D83AF-0E43-4338-B19A-3188EC6B1AE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{203D83AF-0E43-4338-B19A-3188EC6B1AE7}.Debug|x64.ActiveCfg = Debug|x64
+		{203D83AF-0E43-4338-B19A-3188EC6B1AE7}.Debug|x64.Build.0 = Debug|x64
+		{203D83AF-0E43-4338-B19A-3188EC6B1AE7}.Release|x64.ActiveCfg = Release|x64
+		{203D83AF-0E43-4338-B19A-3188EC6B1AE7}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A95F511-A3C1-4006-9937-691CE2B1B0C9}
+	EndGlobalSection
+EndGlobal
