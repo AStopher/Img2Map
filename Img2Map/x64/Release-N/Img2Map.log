@@ -1,6 +1,0 @@
-﻿  stdafx.cpp
-  Img2Map.cpp
-  Img2Mapper.cpp
-  Generating Code...
-  LINK : ..\Win64Binary\Img2Map.exe not found or not built by the last incremental link; performing full link
-  Img2Map.vcxproj -> C:\Users\ac2-stopher\source\repos\Img2Map\Img2Map\..\Win64Binary\Img2Map.exe

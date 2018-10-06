@@ -1,0 +1,1 @@
+.\Img2Map C:\Users\ac2-stopher\source\repos\Img2Map\Win64Binary\test.jpg
