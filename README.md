@@ -1,6 +1,6 @@
 # Img2Map
 
-Maps a given image to the ASSMF (Alexander Stopher Simple Map File) format, in order for game engines to effectively reconstruct the image one pixel at a time.
+Maps a given image to raw, in order for game engines to effectively reconstruct the image one pixel at a time.
 
 # As a game developer, why should I want to do this?
 
@@ -15,7 +15,7 @@ The output for each line is like so:
 
     [r],[g],[b],[a],[hex]
     
-That's all there is to reading ASSMF.
+That's all there is to reading the raw graphics file.
 The `repeat` is a poor-man's implementation of Run-Length-Encoding, where if the following pixel(s) is/are the same colour, it will not add another line but will rather increment the `repeat` value instead. This will result in a smaller file size.
 
 # Is there anything I need to be aware of?
